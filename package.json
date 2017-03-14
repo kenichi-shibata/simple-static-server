@@ -1,0 +1,21 @@
+{
+  "name": "image-serve",
+  "version": "0.0.1",
+  "description": "a simple image server for serving static images",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image",
+    "nodejs",
+    "express",
+    "static"
+  ],
+  "author": "kenichi shibata",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
